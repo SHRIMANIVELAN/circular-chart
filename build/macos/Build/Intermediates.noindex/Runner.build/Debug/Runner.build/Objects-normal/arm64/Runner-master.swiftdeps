@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "4178dddb655c98c52b638bb256e003c6624e65704eff9a284fef57eedef8b6d2"
+build_start_time: [1687102117, 939008000]
+build_end_time: [1687102138, 276272000]
+inputs:
+  "/Users/shrimani.velan/doughnut_analytical_component/macos/Flutter/GeneratedPluginRegistrant.swift": [1687102090, 450783943]
+  "/Users/shrimani.velan/doughnut_analytical_component/macos/Runner/AppDelegate.swift": [1671141040, 0]
+  "/Users/shrimani.velan/doughnut_analytical_component/macos/Runner/MainFlutterWindow.swift": [1671141040, 0]
